@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zqverify"
+version = "1.0.0"
+description = "Verification companion for quotient-detector area laws in finite Abelian lattice gauge theory"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name="Phil Davies"}]
+license = {text="MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where=["src"]

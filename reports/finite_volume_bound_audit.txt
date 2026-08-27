@@ -1,0 +1,8 @@
+{
+  "cases": 214,
+  "passing": 214,
+  "max_ratio": 0.4849636282734537,
+  "product_cases": 162,
+  "nontrivial_kernel_product_cases": 131,
+  "noncyclic_quotient_product_cases": 31
+}

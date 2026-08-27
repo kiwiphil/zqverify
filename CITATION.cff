@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "zqverify: verification companion for quotient-detector area laws"
+version: 1.0.0
+authors:
+  - family-names: Davies
+    given-names: Phil
+date-released: 2026-08-26
+license: MIT

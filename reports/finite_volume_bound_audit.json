@@ -1,0 +1,4080 @@
+{
+  "summary": {
+    "cases": 214,
+    "passing": 214,
+    "max_ratio": 0.4849636282734537,
+    "product_cases": 162,
+    "nontrivial_kernel_product_cases": 131,
+    "noncyclic_quotient_product_cases": 31
+  },
+  "rows": [
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.014998875101240806,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734527,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.05992810352914351,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137191,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.2682711820216014,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221925,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.0149988751012408,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734525,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.059928103529143524,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137192,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.2682711820216014,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221925,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.014998875101240773,
+      "bound": 0.030927835051546393,
+      "ratio": 0.48496362827345163,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.05992810352914347,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137188,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.26827118202160144,
+      "bound": 1.2222222222222225,
+      "ratio": 0.2194946034722193,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.01499887510124075,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734509,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.014998875101240825,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734533,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.014998875101240827,
+      "bound": 0.030927835051546393,
+      "ratio": 0.48496362827345335,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.05992810352914341,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137184,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.059928103529143524,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137192,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.05992810352914345,
+      "bound": 0.13636363636363635,
+      "ratio": 0.43947275921371864,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.26827118202160144,
+      "bound": 1.2222222222222225,
+      "ratio": 0.2194946034722193,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.2682711820216015,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221936,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.2682711820216014,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221925,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.00022496625430263562,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.058741188623465966,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.0008988541398878251,
+      "bound": 0.026470588235294117,
+      "ratio": 0.03395671195131784,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.004023765952404211,
+      "bound": 0.030927835051546393,
+      "ratio": 0.13010176579440283,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.0008988541398878253,
+      "bound": 0.026470588235294117,
+      "ratio": 0.033956711951317844,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0035913775925997485,
+      "bound": 0.07578947368421052,
+      "ratio": 0.04738623212458002,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.016076983170076192,
+      "bound": 0.13636363636363635,
+      "ratio": 0.11789787658055875,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.004023765952404211,
+      "bound": 0.030927835051546393,
+      "ratio": 0.13010176579440283,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.016076983170076192,
+      "bound": 0.13636363636363635,
+      "ratio": 0.11789787658055875,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        2
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.07196942710326718,
+      "bound": 1.2222222222222225,
+      "ratio": 0.058884076720854946,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007499859378163953,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24249545322730112,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.0299910032388201,
+      "bound": 0.13636363636363635,
+      "ratio": 0.21993402375134743,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.13663996695649616,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11179633660076956,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.007499859378163965,
+      "bound": 0.030927835051546393,
+      "ratio": 0.2424954532273015,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.029991003238820108,
+      "bound": 0.13636363636363635,
+      "ratio": 0.2199340237513475,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.13663996695649616,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11179633660076956,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.007499859378163944,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24249545322730084,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.029991003238820087,
+      "bound": 0.13636363636363635,
+      "ratio": 0.21993402375134732,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.13663996695649616,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11179633660076956,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 5.6247890692257774e-05,
+      "bound": 0.0009278350515463917,
+      "ratio": 0.06062272663498894,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.0008994602752709501,
+      "bound": 0.01636363636363636,
+      "ratio": 0.05496701682211362,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.01867048056987236,
+      "bound": 0.6722222222222224,
+      "ratio": 0.027774268616339044,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 5.624789069222768e-05,
+      "bound": 0.0009278350515463917,
+      "ratio": 0.0606227266349565,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0008994602752709172,
+      "bound": 0.01636363636363636,
+      "ratio": 0.054967016822111615,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.018670480569872357,
+      "bound": 0.6722222222222224,
+      "ratio": 0.027774268616339037,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 5.624789069224006e-05,
+      "bound": 0.0009278350515463917,
+      "ratio": 0.06062272663496984,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.0008994602752709482,
+      "bound": 0.01636363636363636,
+      "ratio": 0.05496701682211351,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.018670480569872402,
+      "bound": 0.6722222222222224,
+      "ratio": 0.027774268616339103,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007499859378164098,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24249545322730584,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.029991003238820223,
+      "bound": 0.13636363636363635,
+      "ratio": 0.21993402375134832,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.1366399669564963,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11179633660076967,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.007499859378164078,
+      "bound": 0.030927835051546393,
+      "ratio": 0.2424954532273052,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.02999100323882025,
+      "bound": 0.13636363636363635,
+      "ratio": 0.21993402375134852,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.13663996695649624,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11179633660076962,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.0074998593781640905,
+      "bound": 0.030927835051546393,
+      "ratio": 0.2424954532273056,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.029991003238820233,
+      "bound": 0.13636363636363635,
+      "ratio": 0.2199340237513484,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        0,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.13663996695649633,
+      "bound": 1.2222222222222225,
+      "ratio": 0.1117963366007697,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.014998875101240837,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734537,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.014998875101240738,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734505,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.014998875101240648,
+      "bound": 0.030927835051546393,
+      "ratio": 0.4849636282734476,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.05992810352914343,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137185,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.059928103529143496,
+      "bound": 0.13636363636363635,
+      "ratio": 0.43947275921371903,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.05992810352914355,
+      "bound": 0.13636363636363635,
+      "ratio": 0.4394727592137194,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.26827118202160133,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221922,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.26827118202160144,
+      "bound": 1.2222222222222225,
+      "ratio": 0.2194946034722193,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.2682711820216014,
+      "bound": 1.2222222222222225,
+      "ratio": 0.21949460347221925,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.00011248945408994071,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.02937224634570674,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.0004498313117399407,
+      "bound": 0.026470588235294117,
+      "ratio": 0.01699362733239776,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.0020494457982181274,
+      "bound": 0.030927835051546393,
+      "ratio": 0.06626541414238611,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.00044945234926859753,
+      "bound": 0.026470588235294117,
+      "ratio": 0.01697931097236924,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0017973039470388756,
+      "bound": 0.07578947368421052,
+      "ratio": 0.023714427078985165,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.008188574085987613,
+      "bound": 0.13636363636363635,
+      "ratio": 0.060049543297242505,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.0020119961403758245,
+      "bound": 0.030927835051546393,
+      "ratio": 0.06505454187215166,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.008045721888891926,
+      "bound": 0.13636363636363635,
+      "ratio": 0.05900196051854079,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.03665656544681177,
+      "bound": 1.2222222222222225,
+      "ratio": 0.029991735365573258,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 8.436550872230188e-07,
+      "bound": 0.00022978723404255317,
+      "ratio": 0.0036714619536557303,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 1.3490892327348339e-05,
+      "bound": 0.003970588235294117,
+      "ratio": 0.003397706215776619,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.0002800362061476644,
+      "bound": 0.030927835051546393,
+      "ratio": 0.009054503998774483,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 3.370829416693936e-06,
+      "bound": 0.0009278350515463917,
+      "ratio": 0.003633005037992353,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 5.3902948496798755e-05,
+      "bound": 0.018189473684210523,
+      "ratio": 0.0029634144138865064,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.0011188864925301435,
+      "bound": 0.13636363636363635,
+      "ratio": 0.00820516761188772,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 1.5089688122254257e-05,
+      "bound": 0.0009278350515463917,
+      "ratio": 0.01626333053176292,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.00024129927122843592,
+      "bound": 0.01636363636363636,
+      "ratio": 0.014746066575071087,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.005008751891391018,
+      "bound": 0.6722222222222224,
+      "ratio": 0.007451035871490768,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.00011248945408974015,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.02937224634565437,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.00044983131173974034,
+      "bound": 0.026470588235294117,
+      "ratio": 0.016993627332390192,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.00204944579821793,
+      "bound": 0.030927835051546393,
+      "ratio": 0.06626541414237974,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.0004494523492684122,
+      "bound": 0.026470588235294117,
+      "ratio": 0.016979310972362237,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0017973039470386906,
+      "bound": 0.07578947368421052,
+      "ratio": 0.023714427078982726,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.008188574085987431,
+      "bound": 0.13636363636363635,
+      "ratio": 0.060049543297241166,
+      "kernel_size": 4,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.0020119961403757066,
+      "bound": 0.030927835051546393,
+      "ratio": 0.06505454187214785,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.008045721888891808,
+      "bound": 0.13636363636363635,
+      "ratio": 0.059001960518539925,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        2,
+        4
+      ],
+      "psi": [
+        1,
+        3
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.03665656544681166,
+      "bound": 1.2222222222222225,
+      "ratio": 0.029991735365573167,
+      "kernel_size": 2,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007527912089222816,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487104,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.03043599845075253,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218525,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.14544267740626787,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149186,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.007527912089222826,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487134,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.030435998450752542,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218534,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.14544267740626782,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149182,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.00752791208922283,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487148,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.030435998450752542,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218534,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.14544267740626787,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149186,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007527912089223002,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487706,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.030435998450752712,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218656,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.145442677406268,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149197,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.007527912089223004,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487714,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.03043599845075272,
+      "bound": 0.13636363636363635,
+      "ratio": 0.2231973219721866,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.145442677406268,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149197,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.007527912089222993,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487675,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.03043599845075272,
+      "bound": 0.13636363636363635,
+      "ratio": 0.2231973219721866,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        0,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.145442677406268,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149197,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007527912089222891,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487345,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.007527912089222887,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487334,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.007527912089222854,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487229,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.030435998450752594,
+      "bound": 0.13636363636363635,
+      "ratio": 0.2231973219721857,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.030435998450752517,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218514,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.03043599845075255,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218536,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.14544267740626796,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149193,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.14544267740626785,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149185,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.14544267740626782,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149182,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 5.666946042308517e-05,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.014797025777138905,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.00022911952068496467,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336987554,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.0010948796895355781,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996165036,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.00022911952068497082,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336987786,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0009263500016942117,
+      "bound": 0.07578947368421052,
+      "ratio": 0.012222673633465294,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.004426693104210454,
+      "bound": 0.13636363636363635,
+      "ratio": 0.032462416097543335,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.0010948796895355781,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996165036,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.004426693104210461,
+      "bound": 0.13636363636363635,
+      "ratio": 0.032462416097543384,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.021153572411103674,
+      "bound": 1.2222222222222225,
+      "ratio": 0.01730746833635755,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 5.6669460423042e-05,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.014797025777127633,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.00022911952068494003,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336986624,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.001094879689535542,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996164919,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.00022911952068494003,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336986624,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0009263500016941686,
+      "bound": 0.07578947368421052,
+      "ratio": 0.012222673633464727,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.00442669310421046,
+      "bound": 0.13636363636363635,
+      "ratio": 0.03246241609754338,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.001094879689535566,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996164997,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.004426693104210474,
+      "bound": 0.13636363636363635,
+      "ratio": 0.03246241609754348,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        1,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.021153572411103688,
+      "bound": 1.2222222222222225,
+      "ratio": 0.01730746833635756,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 0.007527912089223026,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487784,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.007527912089223004,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487714,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.007527912089223042,
+      "bound": 0.030927835051546393,
+      "ratio": 0.24340249088487834,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.030435998450752698,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218647,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.03043599845075271,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218656,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.03043599845075275,
+      "bound": 0.13636363636363635,
+      "ratio": 0.22319732197218686,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.14544267740626804,
+      "bound": 1.2222222222222225,
+      "ratio": 0.118998554241492,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.14544267740626807,
+      "bound": 1.2222222222222225,
+      "ratio": 0.11899855424149203,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        0
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.14544267740626804,
+      "bound": 1.2222222222222225,
+      "ratio": 0.118998554241492,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 5.6669460423042e-05,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.014797025777127633,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.00022911952068491536,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336985692,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.001094879689535566,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996164997,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.00022911952068494003,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336986624,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0009263500016941686,
+      "bound": 0.07578947368421052,
+      "ratio": 0.012222673633464727,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.00442669310421046,
+      "bound": 0.13636363636363635,
+      "ratio": 0.03246241609754338,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.001094879689535542,
+      "bound": 0.030927835051546393,
+      "ratio": 0.03540110996164919,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.004426693104210449,
+      "bound": 0.13636363636363635,
+      "ratio": 0.032462416097543294,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        1
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.021153572411103688,
+      "bound": 1.2222222222222225,
+      "ratio": 0.01730746833635756,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.03
+      ],
+      "W": 5.666946042308517e-05,
+      "bound": 0.0038297872340425534,
+      "ratio": 0.014797025777138905,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.12
+      ],
+      "W": 0.00022911952068496467,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336987554,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.03,
+        0.55
+      ],
+      "W": 0.00109487968953559,
+      "bound": 0.030927835051546393,
+      "ratio": 0.035401109961650745,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.03
+      ],
+      "W": 0.00022911952068497082,
+      "bound": 0.026470588235294117,
+      "ratio": 0.008655626336987786,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.12
+      ],
+      "W": 0.0009263500016942302,
+      "bound": 0.07578947368421052,
+      "ratio": 0.012222673633465539,
+      "kernel_size": 1,
+      "cyclic": false
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.12,
+        0.55
+      ],
+      "W": 0.004426693104210491,
+      "bound": 0.13636363636363635,
+      "ratio": 0.0324624160975436,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.03
+      ],
+      "W": 0.0010948796895355964,
+      "bound": 0.030927835051546393,
+      "ratio": 0.035401109961650946,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.12
+      ],
+      "W": 0.0044266931042104855,
+      "bound": 0.13636363636363635,
+      "ratio": 0.032462416097543564,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "product-d2",
+      "moduli": [
+        3,
+        3
+      ],
+      "psi": [
+        2,
+        2
+      ],
+      "effective": [
+        0.55,
+        0.55
+      ],
+      "W": 0.021153572411103723,
+      "bound": 1.2222222222222225,
+      "ratio": 0.017307468336357587,
+      "kernel_size": 3,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.049958374957880004,
+      "bound": 0.11111111111111112,
+      "ratio": 0.44962537462092,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 0.002495839228432132,
+      "bound": 0.011111111111111113,
+      "ratio": 0.2246255305588918,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.0996679946249559,
+      "bound": 0.25,
+      "ratio": 0.3986719784998236,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 0.00993370915256024,
+      "bound": 0.05000000000000001,
+      "ratio": 0.19867418305120474,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.19737532022490403,
+      "bound": 0.6666666666666667,
+      "ratio": 0.296062980337356,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 0.038957017033883413,
+      "bound": 0.2666666666666667,
+      "ratio": 0.14608881387706277,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.37994896225522484,
+      "bound": 4.000000000000001,
+      "ratio": 0.09498724056380618,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.14436121391882228,
+      "bound": 3.2000000000000015,
+      "ratio": 0.04511287934963194,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.025304445218396646,
+      "bound": 0.11111111111111112,
+      "ratio": 0.2277400069655698,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 0.0006403149478108369,
+      "bound": 0.011111111111111113,
+      "ratio": 0.05762834530297531,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.05118365806192276,
+      "bound": 0.25,
+      "ratio": 0.20473463224769103,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 0.0026197668525998305,
+      "bound": 0.05000000000000001,
+      "ratio": 0.0523953370519966,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.10443986677431483,
+      "bound": 0.6666666666666667,
+      "ratio": 0.1566598001614722,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 0.01090768577183663,
+      "bound": 0.2666666666666667,
+      "ratio": 0.040903821644387356,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.21509504108205957,
+      "bound": 4.000000000000001,
+      "ratio": 0.05377376027051488,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.04626587669809289,
+      "bound": 3.2000000000000015,
+      "ratio": 0.014458086468154023,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.025304445218396827,
+      "bound": 0.11111111111111112,
+      "ratio": 0.22774000696557142,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 0.000640314947810846,
+      "bound": 0.011111111111111113,
+      "ratio": 0.05762834530297613,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.051183658061922925,
+      "bound": 0.25,
+      "ratio": 0.2047346322476917,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 0.0026197668525998474,
+      "bound": 0.05000000000000001,
+      "ratio": 0.05239533705199694,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.10443986677431502,
+      "bound": 0.6666666666666667,
+      "ratio": 0.15665980016147252,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 0.010907685771836671,
+      "bound": 0.2666666666666667,
+      "ratio": 0.04090382164438751,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.2150950410820598,
+      "bound": 4.000000000000001,
+      "ratio": 0.053773760270514934,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        3
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.04626587669809299,
+      "bound": 3.2000000000000015,
+      "ratio": 0.014458086468154052,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.024994792968420658,
+      "bound": 0.11111111111111112,
+      "ratio": 0.2249531367157859,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 0.0006247396755342107,
+      "bound": 0.011111111111111113,
+      "ratio": 0.056226570798078954,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.04995837495787996,
+      "bound": 0.25,
+      "ratio": 0.19983349983151985,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 0.002495839228432128,
+      "bound": 0.05000000000000001,
+      "ratio": 0.04991678456864255,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.0996679946249558,
+      "bound": 0.6666666666666667,
+      "ratio": 0.1495019919374337,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 0.009933709152560219,
+      "bound": 0.2666666666666667,
+      "ratio": 0.03725140932210081,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.19737532022490392,
+      "bound": 4.000000000000001,
+      "ratio": 0.04934383005622597,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.038957017033883365,
+      "bound": 3.2000000000000015,
+      "ratio": 0.012174067823088545,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.0006247396755342331,
+      "bound": 0.011111111111111113,
+      "ratio": 0.056226570798080966,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 3.902996621866188e-07,
+      "bound": 0.00011111111111111113,
+      "ratio": 0.003512696959679569,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.0024958392284321366,
+      "bound": 0.05000000000000001,
+      "ratio": 0.04991678456864272,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 6.229213454180723e-06,
+      "bound": 0.002,
+      "ratio": 0.0031146067270903617,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.009933709152560246,
+      "bound": 0.2666666666666667,
+      "ratio": 0.037251409322100915,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 9.86785775276592e-05,
+      "bound": 0.04266666666666668,
+      "ratio": 0.002312779160804512,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.038957017033883434,
+      "bound": 3.2000000000000015,
+      "ratio": 0.012174067823088568,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        2
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.001517649176178284,
+      "bound": 2.048000000000001,
+      "ratio": 0.0007410396368058024,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.05,
+      "area": 1,
+      "W": 0.024994792968420786,
+      "bound": 0.11111111111111112,
+      "ratio": 0.22495313671578707,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.05,
+      "area": 2,
+      "W": 0.0006247396755342171,
+      "bound": 0.011111111111111113,
+      "ratio": 0.05622657079807953,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.1,
+      "area": 1,
+      "W": 0.049958374957880095,
+      "bound": 0.25,
+      "ratio": 0.19983349983152038,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.1,
+      "area": 2,
+      "W": 0.002495839228432141,
+      "bound": 0.05000000000000001,
+      "ratio": 0.04991678456864281,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.2,
+      "area": 1,
+      "W": 0.09966799462495592,
+      "bound": 0.6666666666666667,
+      "ratio": 0.14950199193743385,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.2,
+      "area": 2,
+      "W": 0.009933709152560241,
+      "bound": 0.2666666666666667,
+      "ratio": 0.037251409322100894,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.4,
+      "area": 1,
+      "W": 0.19737532022490406,
+      "bound": 4.000000000000001,
+      "ratio": 0.049343830056226,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "cyclic-d2",
+      "moduli": [
+        4
+      ],
+      "psi": [
+        3
+      ],
+      "beta": 0.4,
+      "area": 2,
+      "W": 0.03895701703388342,
+      "bound": 3.2000000000000015,
+      "ratio": 0.012174067823088563,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "z2-d3-cube",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.02,
+      "W": 0.019997336956519708,
+      "bound": 0.08695652173913043,
+      "ratio": 0.22996937499997666,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "z2-d3-cube",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.05,
+      "W": 0.049958685382548,
+      "bound": 0.25,
+      "ratio": 0.199834741530192,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "z2-d3-cube",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.1,
+      "W": 0.09967773201236295,
+      "bound": 0.6666666666666667,
+      "ratio": 0.14951659801854442,
+      "kernel_size": 1,
+      "cyclic": true
+    },
+    {
+      "kind": "z2-d3-cube",
+      "moduli": [
+        2
+      ],
+      "psi": [
+        1
+      ],
+      "beta": 0.2,
+      "W": 0.19766318026007135,
+      "bound": 4.000000000000001,
+      "ratio": 0.04941579506501782,
+      "kernel_size": 1,
+      "cyclic": true
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Processing ./dist/zqverify-1.0.0-py3-none-any.whl
+Installing collected packages: zqverify
+Successfully installed zqverify-1.0.0

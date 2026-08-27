@@ -1,0 +1,52 @@
+{
+  "by_group": {
+    "(2, 2)": {
+      "noncyclic_advantage": 12,
+      "problems": 162,
+      "rescued": 27
+    },
+    "(2, 2, 2)": {
+      "noncyclic_advantage": 1568,
+      "problems": 5292,
+      "rescued": 1372
+    },
+    "(2, 4)": {
+      "noncyclic_advantage": 220,
+      "problems": 2016,
+      "rescued": 432
+    },
+    "(2,)": {
+      "noncyclic_advantage": 0,
+      "problems": 3,
+      "rescued": 0
+    },
+    "(3, 3)": {
+      "noncyclic_advantage": 160,
+      "problems": 1296,
+      "rescued": 240
+    },
+    "(3,)": {
+      "noncyclic_advantage": 0,
+      "problems": 6,
+      "rescued": 0
+    },
+    "(4,)": {
+      "noncyclic_advantage": 0,
+      "problems": 36,
+      "rescued": 2
+    },
+    "(5,)": {
+      "noncyclic_advantage": 0,
+      "problems": 60,
+      "rescued": 0
+    },
+    "(6,)": {
+      "noncyclic_advantage": 0,
+      "problems": 285,
+      "rescued": 36
+    }
+  },
+  "crude_rho_ge_1_but_detector": 2109,
+  "noncyclic_advantage": 1960,
+  "problems": 9156
+}

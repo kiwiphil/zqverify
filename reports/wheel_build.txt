@@ -1,0 +1,9 @@
+Processing /mnt/data/zqverify_release_v1.0.0
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: zqverify
+  Building wheel for zqverify (pyproject.toml): started
+  Building wheel for zqverify (pyproject.toml): finished with status 'done'
+  Created wheel for zqverify: filename=zqverify-1.0.0-py3-none-any.whl size=12639 sha256=1648c55414497dd52930c41465695f1226cdb1c44447e8175a1e8aa79ea10efd
+  Stored in directory: /tmp/pip-ephem-wheel-cache-ukzbj5z5/wheels/b8/54/fa/3cb21f283027a2257a48778373fa3cd21962e6f21fbb409361
+Successfully built zqverify
