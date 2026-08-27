@@ -7,7 +7,7 @@ name = "zqverify"
 version = "1.0.0"
 description = "Verification companion for quotient-detector area laws in finite Abelian lattice gauge theory"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 authors = [{name="Phil Davies"}]
 license = {text="MIT"}
 dependencies = []
@@ -17,3 +17,10 @@ test = ["pytest>=8"]
 
 [tool.setuptools.packages.find]
 where=["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
